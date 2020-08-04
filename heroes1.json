@@ -1,0 +1,599 @@
+{
+  "heroes": [
+    {
+      "index": 1,
+      "name": "Abaddon",
+      "pos": "34"
+    },
+    {
+      "index": 2,
+      "name": "Alchemist",
+      "pos": "12"
+    },
+    {
+      "index": 3,
+      "name": "Ancient Apparition",
+      "pos": "45"
+    },
+    {
+      "index": 4,
+      "name": "Anti-Mage",
+      "pos": "1"
+    },
+    {
+      "index": 5,
+      "name": "Arc Warden",
+      "pos": "12"
+    },
+    {
+      "index": 6,
+      "name": "Axe",
+      "pos": "3"
+    },
+    {
+      "index": 7,
+      "name": "Bane",
+      "pos": "45"
+    },
+    {
+      "index": 8,
+      "name": "Batrider",
+      "pos": "45"
+    },
+    {
+      "index": 9,
+      "name": "Beastmaster",
+      "pos": "3"
+    },
+    {
+      "index": 10,
+      "name": "Bloodseeker",
+      "pos": "12"
+    },
+    {
+      "index": 11,
+      "name": "Bounty Hunter",
+      "pos": "4"
+    },
+    {
+      "index": 12,
+      "name": "Brewmaster",
+      "pos": "3"
+    },
+    {
+      "index": 13,
+      "name": "Bristleback",
+      "pos": "3"
+    },
+    {
+      "index": 14,
+      "name": "Broodmother",
+      "pos": "2"
+    },
+    {
+      "index": 15,
+      "name": "Centaur Warrunner",
+      "pos": "3"
+    },
+    {
+      "index": 16,
+      "name": "Chaos Knight",
+      "pos": "1"
+    },
+    {
+      "index": 17,
+      "name": "Chen",
+      "pos": "45"
+    },
+    {
+      "index": 18,
+      "name": "Clinkz",
+      "pos": "2"
+    },
+    {
+      "index": 19,
+      "name": "Clockwerk",
+      "pos": "34"
+    },
+    {
+      "index": 20,
+      "name": "Crystal Maiden",
+      "pos": "45"
+    },
+    {
+      "index": 21,
+      "name": "Dark Seer",
+      "pos": "34"
+    },
+    {
+      "index": 22,
+      "name": "Dark Willow",
+      "pos": "45"
+    },
+    {
+      "index": 23,
+      "name": "Dazzle",
+      "pos": "45"
+    },
+    {
+      "index": 24,
+      "name": "Death Prophet",
+      "pos": "2"
+    },
+    {
+      "index": 25,
+      "name": "Disruptor",
+      "pos": "45"
+    },
+    {
+      "index": 26,
+      "name": "Doom",
+      "pos": "34"
+    },
+    {
+      "index": 27,
+      "name": "Dragon Knight",
+      "pos": "12"
+    },
+    {
+      "index": 28,
+      "name": "Drow Ranger",
+      "pos": "12"
+    },
+    {
+      "index": 29,
+      "name": "Earth Spirit",
+      "pos": "4"
+    },
+    {
+      "index": 30,
+      "name": "Earthshaker",
+      "pos": "34"
+    },
+    {
+      "index": 31,
+      "name": "Elder Titan",
+      "pos": "4"
+    },
+    {
+      "index": 32,
+      "name": "Ember Spirit",
+      "pos": "12"
+    },
+    {
+      "index": 33,
+      "name": "Enchantress",
+      "pos": "45"
+    },
+    {
+      "index": 34,
+      "name": "Enigma",
+      "pos": "34"
+    },
+    {
+      "index": 35,
+      "name": "Faceless Void",
+      "pos": "1"
+    },
+    {
+      "index": 36,
+      "name": "Grimstroke",
+      "pos": "45"
+    },
+    {
+      "index": 37,
+      "name": "Gyrocopter",
+      "pos": "12"
+    },
+    {
+      "index": 38,
+      "name": "Huskar",
+      "pos": "2"
+    },
+    {
+      "index": 39,
+      "name": "Invoker",
+      "pos": "24"
+    },
+    {
+      "index": 40,
+      "name": "Io",
+      "pos": "4"
+    },
+    {
+      "index": 41,
+      "name": "Jakiro",
+      "pos": "45"
+    },
+    {
+      "index": 42,
+      "name": "Juggernaut",
+      "pos": "1"
+    },
+    {
+      "index": 43,
+      "name": "Keeper of the Light",
+      "pos": "45"
+    },
+    {
+      "index": 44,
+      "name": "Kunkka",
+      "pos": "24"
+    },
+    {
+      "index": 45,
+      "name": "Legion Commander",
+      "pos": "3"
+    },
+    {
+      "index": 46,
+      "name": "Leshrac",
+      "pos": "24"
+    },
+    {
+      "index": 47,
+      "name": "Lich",
+      "pos": "45"
+    },
+    {
+      "index": 48,
+      "name": "Lifestealer",
+      "pos": "1"
+    },
+    {
+      "index": 49,
+      "name": "Lina",
+      "pos": "24"
+    },
+    {
+      "index": 50,
+      "name": "Lion",
+      "pos": "45"
+    },
+    {
+      "index": 51,
+      "name": "Lone Druid",
+      "pos": "12"
+    },
+    {
+      "index": 52,
+      "name": "Luna",
+      "pos": "14"
+    },
+    {
+      "index": 53,
+      "name": "Lycan",
+      "pos": "12"
+    },
+    {
+      "index": 54,
+      "name": "Magnus",
+      "pos": "123"
+    },
+    {
+      "index": 55,
+      "name": "Mars",
+      "pos": "3"
+    },
+    {
+      "index": 56,
+      "name": "Medusa",
+      "pos": "12"
+    },
+    {
+      "index": 57,
+      "name": "Meepo",
+      "pos": "12"
+    },
+    {
+      "index": 58,
+      "name": "Mirana",
+      "pos": "24"
+    },
+    {
+      "index": 59,
+      "name": "Monkey King",
+      "pos": "12"
+    },
+    {
+      "index": 60,
+      "name": "Morphling",
+      "pos": "12"
+    },
+    {
+      "index": 61,
+      "name": "Naga Siren",
+      "pos": "1"
+    },
+    {
+      "index": 62,
+      "name": "Nature's Prophet",
+      "pos": "24"
+    },
+    {
+      "index": 63,
+      "name": "Necrophos",
+      "pos": "23"
+    },
+    {
+      "index": 64,
+      "name": "Night Stalker",
+      "pos": "3"
+    },
+    {
+      "index": 65,
+      "name": "Nyx Assassin",
+      "pos": "4"
+    },
+    {
+      "index": 66,
+      "name": "Ogre Magi",
+      "pos": "45"
+    },
+    {
+      "index": 67,
+      "name": "Omniknight",
+      "pos": "3"
+    },
+    {
+      "index": 68,
+      "name": "Oracle",
+      "pos": "45"
+    },
+    {
+      "index": 69,
+      "name": "Outworld Devourer",
+      "pos": "2"
+    },
+    {
+      "index": 70,
+      "name": "Pangolier",
+      "pos": "34"
+    },
+    {
+      "index": 71,
+      "name": "Phantom Assassin",
+      "pos": "1"
+    },
+    {
+      "index": 72,
+      "name": "Phantom Lancer",
+      "pos": "1"
+    },
+    {
+      "index": 73,
+      "name": "Phoenix",
+      "pos": "4"
+    },
+    {
+      "index": 74,
+      "name": "Puck",
+      "pos": "23"
+    },
+    {
+      "index": 75,
+      "name": "Pudge",
+      "pos": "4"
+    },
+    {
+      "index": 76,
+      "name": "Pugna",
+      "pos": "24"
+    },
+    {
+      "index": 77,
+      "name": "Queen of Pain",
+      "pos": "24"
+    },
+    {
+      "index": 78,
+      "name": "Razor",
+      "pos": "12"
+    },
+    {
+      "index": 79,
+      "name": "Riki",
+      "pos": "12"
+    },
+    {
+      "index": 80,
+      "name": "Rubick",
+      "pos": "4"
+    },
+    {
+      "index": 81,
+      "name": "Sand King",
+      "pos": "34"
+    },
+    {
+      "index": 82,
+      "name": "Shadow Demon",
+      "pos": "45"
+    },
+    {
+      "index": 83,
+      "name": "Shadow Shaman",
+      "pos": "45"
+    },
+    {
+      "index": 84,
+      "name": "Silencer",
+      "pos": "24"
+    },
+    {
+      "index": 85,
+      "name": "Skywrath Mage",
+      "pos": "24"
+    },
+    {
+      "index": 86,
+      "name": "Slardar",
+      "pos": "3"
+    },
+    {
+      "index": 87,
+      "name": "Slark",
+      "pos": "1"
+    },
+    {
+      "index": 88,
+      "name": "Snapfire",
+      "pos": "45"
+    },
+    {
+      "index": 89,
+      "name": "Sniper",
+      "pos": "124"
+    },
+    {
+      "index": 90,
+      "name": "Spectre",
+      "pos": "1"
+    },
+    {
+      "index": 91,
+      "name": "Spirit Breaker",
+      "pos": "4"
+    },
+    {
+      "index": 92,
+      "name": "Storm Spirit",
+      "pos": "2"
+    },
+    {
+      "index": 93,
+      "name": "Sven",
+      "pos": "14"
+    },
+    {
+      "index": 94,
+      "name": "Techies",
+      "pos": "4"
+    },
+    {
+      "index": 95,
+      "name": "Templar Assassin",
+      "pos": "2"
+    },
+    {
+      "index": 96,
+      "name": "Terrorblade",
+      "pos": "1"
+    },
+    {
+      "index": 97,
+      "name": "Tidehunter",
+      "pos": "3"
+    },
+    {
+      "index": 98,
+      "name": "Timbersaw",
+      "pos": "3"
+    },
+    {
+      "index": 99,
+      "name": "Tinker",
+      "pos": "2"
+    },
+    {
+      "index": 100,
+      "name": "Tiny",
+      "pos": "234"
+    },
+    {
+      "index": 101,
+      "name": "Treant Protector",
+      "pos": "45"
+    },
+    {
+      "index": 102,
+      "name": "Troll Warlord",
+      "pos": "1"
+    },
+    {
+      "index": 103,
+      "name": "Tusk",
+      "pos": "4"
+    },
+    {
+      "index": 104,
+      "name": "Underlord",
+      "pos": "3"
+    },
+    {
+      "index": 105,
+      "name": "Undying",
+      "pos": "45"
+    },
+    {
+      "index": 106,
+      "name": "Ursa",
+      "pos": "1"
+    },
+    {
+      "index": 107,
+      "name": "Vengeful Spirit",
+      "pos": "45"
+    },
+    {
+      "index": 108,
+      "name": "Venomancer",
+      "pos": "24"
+    },
+    {
+      "index": 109,
+      "name": "Viper",
+      "pos": "23"
+    },
+    {
+      "index": 110,
+      "name": "Visage",
+      "pos": "2"
+    },
+    {
+      "index": 111,
+      "name": "Void Spirit",
+      "pos": "24"
+    },
+    {
+      "index": 112,
+      "name": "Warlock",
+      "pos": "45"
+    },
+    {
+      "index": 113,
+      "name": "Weaver",
+      "pos": "24"
+    },
+    {
+      "index": 114,
+      "name": "Windranger",
+      "pos": "24"
+    },
+    {
+      "index": 115,
+      "name": "Winter Wyvern",
+      "pos": "45"
+    },
+    {
+      "index": 116,
+      "name": "Witch Doctor",
+      "pos": "45"
+    },
+    {
+      "index": 117,
+      "name": "Wraith King",
+      "pos": "1"
+    },
+    {
+      "index": 118,
+      "name": "Zeus",
+      "pos": "24"
+    },
+    {
+      "index": 119,
+      "name": "Shadow Fiend",
+      "pos": "2"
+    }
+  ]
+}
